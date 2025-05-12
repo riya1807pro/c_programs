@@ -1,0 +1,6 @@
+# Ignore compiled files
+main
+queue
+stack
+*.out
+*.exe
